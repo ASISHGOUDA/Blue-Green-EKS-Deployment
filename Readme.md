@@ -1,7 +1,10 @@
-## Mastering 3-Tier Application Blue-Green Deployment on AWS EKS: A Step-by-Step Guide to Zero-Downtime Releases
+
+
+## 3-Tier Application Blue-Green Deployment on AWS EKS: A Step-by-Step Guide to Zero-Downtime Releases
 
 ### 🚀 Project Description
-This project showcases how to achieve Blue-Green Deployment on AWS using Kubernetes (EKS) to enable zero-downtime deployments. Leveraging automation with Jenkins, the CI/CD pipeline handles seamless application updates, directing traffic between environments for smooth transitions.
+This project showcases how to achieve Blue-Green Deployment on AWS using Kubernetes (EKS) to enable zero-downtime deployments. Leveraging automation with Jenkins, the CI/CD pipeline handles seamless application updates, directing traffic between environments for smooth transitions.![bg_arch](https://github.com/user-attachments/assets/108bb368-a8ad-499f-9d47-560270099e4a)
+
 
 ---
 
